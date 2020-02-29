@@ -12,4 +12,4 @@
 - 不要着急，让黑暗料理生成器来帮你
 - 只需三步，你就能创造前所未有的味道！
 
-注：随机菜谱用料数据来自(https://github.com/regingelectricbear/xiachufang_spider)[https://github.com/regingelectricbear/xiachufang_spider]
+注：随机菜谱用料数据来自https://github.com/regingelectricbear/xiachufang_spider
