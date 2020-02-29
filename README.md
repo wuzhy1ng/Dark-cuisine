@@ -19,9 +19,11 @@
 - 只需三步，你就能创造前所未有的味道！
 
 - 脑残版使用方法：
-1. clone and download
-2. 解压zip
-3. 双击运行index.html
+```
+  1. clone and download
+  2. 解压zip
+  3. 双击运行index.html
+```
 
 示例：
 ```
